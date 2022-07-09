@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Century Gothic", Verdana, sans-serif;
+    font: dimgray;
+    font-weight: bold;
+}
+
+.dot{
+    width: 5px;
+    height: 5px;
+    background-color: dimgray;
+    border-radius: 100%;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+.header-1{
+    display: flex;
+    float: right;
+    margin-top: -90px;
+}
+
+.header{
+    display: flex;
+    margin-top: 10px;
+    float: right;
+}
+
+.para{
+    margin-right: 20px;
+}
+
+button{
+    margin-right: 15px;
+    margin-left: 20px;
+    color: white;
+    background-color: blue;
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-top: -100px;
+}
+
+.google{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 560px;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+.google-1{
+    color: blue;
+}
+
+.google-2{
+    color: red;
+    padding-top: 38px
+}
+
+.google-3{
+    color: yellow;
+    padding-top: 38px
+}
+
+.google-4{
+    color: blue;
+    padding-top: 38px
+}
+
+.google-5{
+    color: #1ab81a;
+}
+
+.google-6{
+    color: red;
+    padding-top: 38px
+}
+
+.recherche{
+    width: 450px;
+    height: 35px;
+    border-radius: 50px;
+    margin-left: 450px;
+    box-shadow: 1px 1px 5px dimgray;
+    border: none;
+    outline: none;
+    padding-left: 35px;
+}
+
+.bt{
+    width: 150px;
+    height: 35px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(248, 247, 247);
+    margin-left: 30px;
+}
+
+.btn{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 480px;
+}
+
+.lien{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.ligne{
+    display: flex;
+    margin-left: 470px;
+    margin-top: 30px;
+}
+
+ul{
+    margin-left: 7px;
+}
+
+.footer{
+    background-color: rgb(241, 239, 239);
+    color: gray;
+    margin-top: 150px;
+    padding-bottom: 10px;
+}
+
+.footer-one{
+    margin-left: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+}
+
+.lien-footer{
+    display: inline-block;
+    margin-right: 20px;
+    color: gray;
+}
+
+.footer-two{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding-bottom: 15px;
+}
+
+.contact{
+    margin-left: 15px;
+}
+
+.parametre{
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
